@@ -1,0 +1,104 @@
+A brand new car for $1? Pictures of puppies? Sexy pictures?  We are bombarded daily with these types of messages, photos, and links.  However, clicking on any of 
+these can cripple an individual, a company, or even our national infrastructure.  A new ransomware attack will be launched against a company every eleven seconds in
+2021.  What is ransomware and how can we protect ourselves against such an omnipresent threat?  Ransomware is malware that is designed to encrypt files on a device 
+causing the user to be locked out of accessing their files or system.  Malicious actors then demand payment or ransom for unlocking the files or devices.  Ransomware
+attacks can render a business inoperable causing catastrophic financial and reputational damage.  The average cost of a ransomware attack according to a recent survey is around $500k (SOURCE: ZDNET).  As our knowledge of fighting these attacks has grown, so have the capabilities of malicious actors.  It can be difficult to stay up to date with the latest tactics and best practices, but the following will provide a breakdown of the best ways to mitigate the risk of potential ransomware attacks. 
+Ransomware attackers will look to find any vulnerability and often the most vulnerable and easiest place to begin is people.  Phishing is the delivery mechanism of 
+choice for most ransomware attacks.  These attacks often appear as legitimate and ask the user to click a link.  These links can instantly download ransomware onto 
+your computer.  An attacker can also use precursor malware which will allow the nefarious attacker to use the victim’s email address to further spread the infection.
+Attackers will also search diligently for areas of attack on the network.  These could be internet facing vulnerabilities or misconfigurations on the system.  Proper risk management against ransomware attacks also includes third parties or managed service providers a company may use.  They are extensions of the company that uses their services and any flaw in their security could potentially be a flaw in the security of every company with which they do business.     
+Unfortunately, the biggest threat in the security chain is the people themselves.  In a recent survey, 25% of ransomware attacks were reported as being initiated 
+through phishing at small companies, while almost 50% were of attacks on large companies used phishing.  Preventing phishing attacks and ransomware attacks in general
+can often be as simple as “DON’T CLICK THE LINK!”  However, attackers are getting more sophisticated daily, and this can be a lot easier said than done.  Some of 
+the most detrimental cyberattacks in history have been caused simply by an employee clicking a link they should not have clicked.  Below are some tips on how to 
+mitigate the risk of ransomware attacks from many possible attack vectors starting with the people.  
+
+USER EDUCATION: 
+Assuring all your employees are aware of the various tactics and catastrophic risks of ransomware is paramount.  Investing in user training will significantly improve
+the chances of successfully halting a ransomware attack.  Employees should be trained to avoid clicking links and downloading or opening files from any source that
+is not known.  Recent phishing attacks have pivoted toward more sophisticated attacks with attackers mimicking email addresses of high-level executives and trusted
+associates.  This type of “whaling” can be tough to decipher and requires employees to be more scrupulous than ever.    Employees should immediately report anything
+that might looks suspicious.  If the file or link looks or seems legitimate, an antivirus software should be run on the file to ensure the legitimacy.  Employees 
+should also be periodically tested to ensure they are following the proper procedures in handling outside communications. 
+
+STANDARD USER ACCOUNTS VS. ADMINISTRATIVE PRIVLIGES:
+It is extremely important for all employees to use standard accounts whenever possible.  The use of administrator accounts should only be used when necessary.  Even
+administrators should use standard accounts for everyday use. Privileged accounts should only be used when actual admin tasks need to be performed. Those privileged
+accounts should not have internet access, and any actions they take should be logged. As well, all privileged actions should be part of a configuration management
+process, and change management processes.
+
+AVOID PERSONAL BROWSING
+Users should not use their work computers for personal activities.  Email, chat, social media, websites, and applications that are used for non-business purposes 
+can be prime areas of potential attack for malicious actors to gain access to a company’s network.  Email filtering on the network can also be beneficial in blocking
+unwanted content from ever reaching the users.    
+
+
+Once the people in your organization are secure, it is time to focus on the computers and networks themselves to ensure they are secure against potential ransomware
+attacks.  Many of these are imperative security practices in general, not just for ransomware.
+
+
+ALWAYS USE AND UPDATE ANTIVIRUS/ ANTI-MALWARE SOFTWARE
+Antivirus and anti-malware software must always be updated.  Threats increase and can change daily and without the proper updated signatures, an antivirus software
+may allow malicious content to pass through the system.  These solutions should be set to automatically update.  Some of the top software solutions are listed below:
+
+1.	Bitdefender
+2.	Webroot
+3.	Norton
+
+KEEP YOUR SYSTEMS FULLY PATCHED
+Along with keeping the antivirus/anti-malware software updated, it is essential to keep your operating system updated with the latest security updates.  In a recent
+ransomware attack, those using unpatched and end of life products from network device manager SonicWall were in imminent danger of being hit with ransomware.  Without
+updating their systems, these users put themselves and their companies in a dangerous situation.
+
+SEPARATE YOUR DATA WITH NETWORK SEGMENTATION
+It is ideal to keep different types of data separated based on their organizational value.  When possible, separating the different types of data via physical or 
+logical means provides an additional layer of protection for your most important data. 
+
+INTRUSION DECTECTION 
+The use of an Intrusion prevention system (IPS) or Intrusion detection system (IDS)  will monitor network activity for any suspicious behavior.  This will alert (IDS)
+or stop (IPS) many potential threats as they attempt to breach your network. 
+1.	OSSEC
+2.	Snort
+3.	Suricata
+
+Despite all this preparation, mistakes and breaches can and will still occur.  It is just as important for an organization to have proper plans in place in case they
+do get breached.  This assures limited downtime resulting in less financial and reputational damage.
+
+
+HAVE A RECOVERY PLAN	
+A recovery plan is a detailed description of exactly what an organization needs to do to bring the business back online following an incident.  Roles should be
+clearly defined with a decision-making policy in place.  It is important to test this plan on occasion ensuring it will function properly when the time is needed.
+
+HAVE A TRIED AND TESTED BACKUP STRATEGY
+Although an organization might be breached and its data rendered inoperable, with a solid backup strategy in place an organization can restore that data without 
+paying a hefty ransom to the attackers.  It is strongly recommended to never ever pay the ransom.  To do this, a comprehensive backup strategy is necessary.  The
+best practice for backing up data is the 3-2-1 Rule.  The 3-2-1 Rule involves maintaining three different copies of the data, with at least two on different forms
+of media (i.e., hard drive, cloud).  One backup should be kept separately from the place of business and isolated from the normal business network.  These backups
+should be tested regularly to ensure data integrity.  
+
+
+RESET ALL SYSTEM PASSWORDS
+Upon removing the ransomware, make sure to change all system passwords.  The bad guys can still leverage this information against you following the removal of any
+harmful ransomware.  It is widely believed the Colonial gas pipeline attack came to fruition because an employee was using the same password for personal use as 
+well as within the company.  Once the employee’s credentials were found on the Dark Web, the attackers were able to breach the company using those same credentials.
+Although the threat from ransomware is daunting and often fought from behind, with these proper strategies, a company will be in the best possible situation to 
+defend, fight and restore their systems against a potential attack.  Threats in the world are ever-changing so it is imperative to keep yourself up to date with 
+the latest information.       
+  
+
+
+
+SOURCES
+https://us-cert.cisa.gov/ncas/tips/ST19-001
+
+https://www.zdnet.com/article/sonicwall-releases-urgent-notice-about-imminent-ransomware-targeting-firmware/?ftag=TRE-03-10aaa6b&bhid=%7B%24external_id%7D&mid=%7B%24MESSAGE_ID%7D&cid=%7B%24contact_id%7D&eh=%7B%24CF_emailHash%7D
+
+https://www.nist.gov/news-events/news/2021/05/nist-releases-tips-and-tactics-dealing-ransomware
+
+https://www.cisa.gov/sites/default/files/publications/CISA_MS-ISAC_Ransomware%20Guide_S508C.pdf
+https://infimasec.com/blog/11-seconds/
+https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password
+https://www.zdnet.com/article/phishing-continues-to-be-one-of-the-easiest-paths-for-ransomware-report/?ftag=TRE-03-10aaa6b&bhid=%7B%24external_id%7D&mid=%7B%24MESSAGE_ID%7D&cid=%7B%24contact_id%7D&eh=%7B%24CF_emailHash%7D 
+
+
+
