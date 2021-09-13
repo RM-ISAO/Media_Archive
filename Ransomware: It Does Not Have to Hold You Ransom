@@ -1,0 +1,58 @@
+Though most are familiar with malware and viruses that infect computers and delete files or display advertisements, there’s a much more sinister form of malicious
+technology that’s becoming increasingly commonplace in corporate computer networks: ransomware.
+
+Generally rendering the infected computer inoperable, ransomware attacks computer systems in order to encrypt some—or even all—of its stored data. Usual targets 
+include financial records or client contacts, and once the desired data is encrypted, the malicious software displays an ominous message demanding a payment to release 
+the information or unlock the computer system. These ransoms can be as low as a few hundred dollars or as high as several million, and are usually paid in untraceable
+cryptocurrencies like Bitcoin.
+
+Unfortunately, cyber experts are expecting ransomware to become increasingly popular over the coming years. While the healthcare sector has already been an early 
+target, the Institute for Critical Infrastructure Technology (ICIT) believes that financial institutions are next on the hit list, and just this year, NPR reported 
+that the U.S. suffers over seven ransomware attacks an hour, elevating them into a national security risk. All potential victims are now looking to shore up protections
+against these sophisticated attacks, which also feature sophisticated attackers behind them. Take DarkSide, the Russia-based criminal group behind the Colonial Pipeline
+attack—they have what some experts describe as essentially a customer service contact to deal with questions from targets it attacks.
+
+PROTECTING AGAINST ATTACK
+
+According to experts, the way through for ransomware was paved by companies and institutions having long neglected their IT systems, leaving them exposed to hacking. 
+Accelerating the process has been the pandemic, which has pushed many Americans to work from home, using personal modems and routers and thusly making them more 
+vulnerable. But rest assured, there are still ways to enable defenses against these kinds of attacks. Ransomware infects computers and networks in the same way that 
+malware and viruses are transmitted—most often via e-mail attachments, bogus advertisements, or similar techniques. Protection against these methods demands a 
+three-tiered approach.
+
+First, organizations should move to protect all the technology involved in their networks. Ensure each computer system has all the most recent available security patches.
+Next, be sure to encrypt all sensitive files to prevent attackers from being able to access them, even if they are able to hold them ransom. Best practices indicate that
+multiple lines of defense should be employed, and these could include using a reputable security suite and host-based firewall—like the one(s) in the Microsoft Security
+Suite—that can detect foreign connections trying to enter the network and stop them immediately.
+
+And while protecting the computers themselves remains incredibly important, the ICIT suggests that a major problem regarding ransomware actually lies in the exploitation
+of humans. Therefore, for any organization, the training of staff in recognizing the most common social engineering attacks represents an equally important step for 
+protection against ransomware. While many personnel may still fall for especially clever tricks, there are some steps that can make the tricks more obvious in order to
+provide people more of an advantage. For example, organizations should make sure that each computing system is set to show hidden file extensions in order to identify 
+the actual type of file before opening it—e.g., an employee trained to understand the differences of file types and also has their system appropriately set up is much 
+better equipped to identify a file with the ending “.pdf.exe” as being an executable file (a potential virus) rather than a normal PDF file. Of course, both continuous
+updates to tech and constant employee awareness training are much easier said than done, but together they can strengthen defenses against ransomware enormously.
+
+Even still, ransomware may unfortunately still slip through this protection, and in the event it does, there is one last preparatory step that absolutely must be 
+taken. The single most important action to avoid potential losses due to ransomware is to back up everything onto a separate hard drive that is not connected to the
+Internet—in doing so, the organization may be spared having to pay an eventual ransom. The best way to back up data is to use an automated program that generates 
+regular daily back-ups and encrypts them for storage in the cloud or external hard drives. For instance, Apple offers “Time Machine,” and for Windows and IOS users,
+automated backup to "Google Drive" or “Microsoft One-Drive” is available.
+
+MITIGATING POTENTIAL LOSSES
+
+If the attack has already occurred, the first step is to immediately disconnect the computer or device from the Internet and shut it down. This may help stop the
+encryption of files at an early stage and enable the recovery of the rest of the files. Next, contact your insurance company, as many types of business insurance 
+policies cover cybersecurity as well. Alternatively, if you do not have any type of cybersecurity insurance, it’s strongly advised to call in a cybersecurity 
+expert—they may be able to address the problem and recover as much data as possible before restoring the operating system from the original media.
+
+Additionally, history says that after successful ransomware attacks, organizations typically have a deadline of 72 hours to make payment before the price goes up
+significantly after the virus propagates. However, by setting back the BIOS clock on the computer to an earlier date, many ransomware programs may potentially be 
+tricked into allowing for more time. (Please note that this may help with some data recovery efforts, but shouldn’t be used as a way to pay a cheaper ransom.) 
+
+THE BOTTOM LINE
+
+As hackers continue to attack in this manner—through locking organizations out of their information systems and demanding money to get the decryption key to unlock
+them—ransomware continues to grow into a major security problem for corporate networks, and one that must be addressed on all fronts. As the greater business 
+landscape continues to adapt to such attacks, the good news is that organizations can avoid many of the accompanying problems ransomware presents by implementing 
+some basic security measures and training employees to recognize potentially malicious messages.
